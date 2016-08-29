@@ -6,7 +6,6 @@
  *     struct TreeNode *right;
  * };
  */
-
 void minDepthHelper(struct TreeNode *root, int *min_depth, int current_depth) {
 	// We reached a leaf node.
 	if (root->left == NULL && root->right == NULL) {
@@ -26,7 +25,6 @@ void minDepthHelper(struct TreeNode *root, int *min_depth, int current_depth) {
 		current_depth--;
 	}
 	return;
-
 } 
 
 
