@@ -6,7 +6,6 @@ An obstacle and empty space is marked as 1 and 0 respectively in the grid.
 */
 
 // Dynamic programming problem.
-
 class Solution {
 public:
     int uniquePaths(int m, int n) {
