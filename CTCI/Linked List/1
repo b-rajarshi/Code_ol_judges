@@ -1,0 +1,29 @@
+// Basic link list operations
+
+#include <iostream>
+
+class Node {
+	int data;
+	Node next;
+
+	public Node(int d) {
+		data = d;
+		next = NULL;
+	}
+
+	void appendToList (int d) {
+		Node end = new Node (d);
+		
+		Node n = this;
+		while (n.next != NULL) {
+			n = n.next;
+		}
+		n.next = end;
+
+	}
+	
+};
+
+int main () {
+	return 0;
+}
