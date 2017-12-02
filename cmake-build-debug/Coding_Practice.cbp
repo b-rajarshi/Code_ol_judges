@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Coding_Practice"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Coding_Practice">
+				<Option output="/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Coding_Practice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 Coding_Practice"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Coding_Practice/fast">
+				<Option output="/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Coding_Practice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 Coding_Practice/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rajarshi/Desktop/Coding-Practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/CTCI/Array And Strings/prob_1_1.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/CTCI/Array And Strings/prob_1_2.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/CTCI/Array And Strings/prob_1_3.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/CTCI/Linked List/linked_list.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/CTCI/Linked List/prob1.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p1.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p2.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p3.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p4.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p5.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p6.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p7.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p8.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/p9.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa10.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa11.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa12.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa13.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa14.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa15.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa16.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa17.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa18.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pa19.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pb20.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pb21.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pb22.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pb23.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pb24.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pb25.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc30.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc31.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc33.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc34.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc35.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc36.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc37.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc38.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pc39.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pd40.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pd41.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Arrayspointers/pd42.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/ADJ_CREA.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/AD_DEL_A.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/DJKSTRA.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/KRUSKAL.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/LINKGR.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/MODIWARS.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/PATHMAT.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/PRIMS.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/TOPSORT.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/TRAVERSE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Graph/WARSH.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/FACT.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/FIBO.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/FIRSTAP.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/STRCAT.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/STRCMP.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/STRCOPY.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/STRLEN.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/SUBSTR.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/TAILREC.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Introduction/T_HANOI.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Linked List/ARRLIST.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Linked List/CIRCLIST.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Linked List/DOUBLELI.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Linked List/LINKLIST.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Linked List/POLYADD.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Linked List/REVERSE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Linked List/SORTEDLI.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Searching/BSEARCH.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Searching/LINEAR.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/ADDR_CAL.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/BUBBLE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/HEAPSORT.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/INSERTION.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/MERGE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/MRGSORT.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/MSORTREC.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/QUICK.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/RADIX.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/SELECTION.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Sorting/SHELL.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/CIRQUEUE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/DEQUE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/PARENTH.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/POSTFIX.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/PRIORITY.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/QUEUE_A.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/QUEUE_L.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/QUE_CL.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/REVERSE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/SPARSE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/STACK_A.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Stack and Queue/STACK_L.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Trees/AVL.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Trees/BST.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Trees/BTREE.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Trees/HEAP.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/DS /Trees/THREAD.C">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P1.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P2.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P3.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_111.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_136.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_318.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_461.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_5.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_6.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_63.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_7.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_70.c">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/LeetCode/C-C++/P_9.cpp">
+			<Option target="Coding_Practice"/>
+		</Unit>
+		<Unit filename="/Users/rajarshi/Desktop/Coding-Practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
